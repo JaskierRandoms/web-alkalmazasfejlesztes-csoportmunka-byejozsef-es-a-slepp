@@ -2,4 +2,4 @@
 
 - [x] WireFrame (30/30 pont)
 - [x] Előrehaladás (30/35 pont) (Márta még egyszer ne más munkáját adjad be!)
-- [ ] Weboldal (?/35 pont)
+- [x] Weboldal (28/35 pont)

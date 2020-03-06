@@ -1,0 +1,18 @@
+Projekt - Bye József és a slepp
+(Márta József, Gulyás Bence és Posztós Ákos)
+
+2020.02.14 - Tervek készítése, források meglelése majd elemzése, anyaggyűjtés. Valamint 
+
+2020.02.16 - Márta József kétes eredetű felhasználási anyagot gyűjtött, mely sokban hozzájárult, a feladat komolyságának megértéséhez.
+
+2020.02.19 - Márta József, Posztós Ákos beléptető és regisztrációs modulok átdolgozása, kibővítése (némi nemű hibákkal)
+
+2020.02.22 - Gulyás Bence jelenlévő problémák kiküszöbölése (sajnos nem maradéktalanul)
+
+2020.02.23 - Márta József, Gulyás Bence és Posztós Ákos fennmaradó hibák kijavítása (sajnos nem maradéktalanul part 2)
+
+2020.02.27 - A Mindentható Dani (vagy?) Gábor megidézése, a legtöbb fennmaradó hibát segített eltüntetni, örök hála neki
+
+2020.02.28-29 - Márta József, Gulyás Bence és Posztós Ákos Fálj feltötlés kivitelezése, sajnos a letöltésben akadnak hibák. 
+
+2020.02.29 -  Márta József, Posztós Ákos Munkanapló elkészítése, majd fél órás szarakodás a Github bejelentkezéssel, mert már megint elfelejtettem a jelszavam.
